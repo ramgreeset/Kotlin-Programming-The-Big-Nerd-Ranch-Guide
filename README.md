@@ -11,6 +11,16 @@
   Оператор +=
 <li><a href="http://it.kgsu.ru/Kotlin/kotlin013.html">Встроенные типы языка Kotlin</a></li>
 <li><a href="http://it.kgsu.ru/Kotlin/kotlin014.html">Переменные, доступные только для чтения</a></li>
+  Ключевое слово val
+<li><a href="http://it.kgsu.ru/Kotlin/kotlin015.html">Автоматическое определение типов</a></li>
+<li><a href="http://it.kgsu.ru/Kotlin/kotlin016.html">Константы времени компиляции</a></li>
+  Модификатор const.
+  SNAKE_CASE
+
+
+
+
+
 <h4>2. Условные конструкции</h4>
 <h4>3. Функции</h4>
 <h4>4. Анонимные функции и функциональные типы</h4>

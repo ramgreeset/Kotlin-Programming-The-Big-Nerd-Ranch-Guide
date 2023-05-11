@@ -16,12 +16,11 @@
 <li><a href="http://it.kgsu.ru/Kotlin/kotlin016.html">Константы времени компиляции</a></li>
   Модификатор const.
   SNAKE_CASE
-
-
-
-
+<li><a href="http://it.kgsu.ru/Kotlin/kotlin017.html">байт-код Kotlin</a></li>
+<li><a href="http://it.kgsu.ru/Kotlin/kotlin018.html">Простые типы Java в Kotlin</a></li>
 
 <h4>2. Условные конструкции</h4>
+<li><a href="http://it.kgsu.ru/Kotlin/kotlin020.html"></a>Операторы if/else</li>
 <h4>3. Функции</h4>
 <h4>4. Анонимные функции и функциональные типы</h4>
 <h4>5. Null-безопасность и исключения</h4>

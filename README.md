@@ -18,6 +18,7 @@
   SNAKE_CASE
 <li><a href="http://it.kgsu.ru/Kotlin/kotlin017.html">байт-код Kotlin</a></li>
 <li><a href="http://it.kgsu.ru/Kotlin/kotlin018.html">Простые типы Java в Kotlin</a></li>
+<li><a href="http://it.kgsu.ru/Kotlin/kotlin020.html">Операторы if/else</a></li>
 
 <h4>2. Условные конструкции</h4>
 <li><a href="http://it.kgsu.ru/Kotlin/kotlin020.html">Операторы if/else</a></li>

@@ -1,27 +1,28 @@
-<li><a href=""></a></li>
+<li><b></b></li>
 <ol>
-<h4>1. Переменные, константы и типы</h4>
-<li><a href="http://it.kgsu.ru/Kotlin/kotlin011.html">Типы</a></li>
+<h3>1. Переменные, константы и типы</h3>
+<li><b>Типы</b></li>
   Функция main()
-<li><a href="http://it.kgsu.ru/Kotlin/kotlin012.html">Объявление переменной</a></li>
+<li><b>Объявление переменной</b></li>
   Ключевое слово var</br>
   Указание типа переменной</br>
   Функция println()</br>
   Статическая типизация
   Оператор +=
-<li><a href="http://it.kgsu.ru/Kotlin/kotlin013.html">Встроенные типы языка Kotlin</a></li>
-<li><a href="http://it.kgsu.ru/Kotlin/kotlin014.html">Переменные, доступные только для чтения</a></li>
+  Инкремент и дикремент
+<li><b>Встроенные типы языка Kotlin</b></li>
+<li><b>Переменные, доступные только для чтения</b>b></li>
   Ключевое слово val
-<li><a href="http://it.kgsu.ru/Kotlin/kotlin015.html">Автоматическое определение типов</a></li>
-<li><a href="http://it.kgsu.ru/Kotlin/kotlin016.html">Константы времени компиляции</a></li>
+<li><b>Автоматическое определение типов</b></li>
+<li><b>Константы времени компиляции</b></li>
   Модификатор const.
   SNAKE_CASE
-<li><a href="http://it.kgsu.ru/Kotlin/kotlin017.html">байт-код Kotlin</a></li>
-<li><a href="http://it.kgsu.ru/Kotlin/kotlin018.html">Простые типы Java в Kotlin</a></li>
-<li><a href="http://it.kgsu.ru/Kotlin/kotlin020.html">Операторы if/else</a></li>
+<li><b>байт-код Kotlin</b></li>
+<li><b>Простые типы Java в Kotlin</b></li>
+<li><b>Операторы if/else</b></li>
 
-<h4>2. Условные конструкции</h4>
-<li><a href="http://it.kgsu.ru/Kotlin/kotlin020.html">Операторы if/else</a></li>
+<h3>2. Условные конструкции</h3>
+<li><b>Операторы if/else</b></li>
 Конкатинация строк</br>
 Отличние if в Kotlin и Java</br>
 Операторы сравнения языка Kotlin</br>
